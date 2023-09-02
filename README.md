@@ -1,6 +1,7 @@
 # Smile Project
 
-[TOC]
+* [Overview](#Overview)
+* [Github Projects](#Github-Projects)
 
 ## Overview
 
