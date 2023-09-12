@@ -1,4 +1,4 @@
-# Smile Project
+# Smile Project (WIP)
 
 * [Overview](#Overview)
 * [Github Projects](#Github-Projects)
