@@ -3,6 +3,12 @@
 * [Overview](#Overview)
 * [Github Projects](#Github-Projects)
 
+<p align="center">
+  <img width="300" height="300" src='./assets/images/simle.jpg'>
+</p>
+
+---
+
 ## Overview
 
 The Smile Project is an e-commerce demo project designed to verify APIs and UI testing technology. The project is divided into separate front-end and back-end components, allowing for a comprehensive evaluation of the system.
