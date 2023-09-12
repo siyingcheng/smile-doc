@@ -21,11 +21,11 @@ To ensure efficient management of the project, we will use GitHub Projects to tr
 2. [smile-doc](https://github.com/siyingcheng/smile-doc) - archive all kinds of documents
 3. [smile-back](https://github.com/siyingcheng/smile-back) - backend repository
 4. [smile-front](https://github.com/siyingcheng/smile-front) - frontend repository
-5. simple-api-core - API testing core framework based on REST Assured & Extend-report (TBD)
-6. simple-ui-core - UI testig core framework based on Selenium & Extend-report (TBD)
-7. simple-api-tests - API tests respostory (TBD)
-8. simple-ui-tests - E2E tests respostory (TBD)
-9. simple-playwright - API testing & UI testing implements with playwright + typescript technology
-10. docker image - deploy develop & testing environments with kubernets (k8s) image (TBD)
+5. api-core - API testing core framework based on REST Assured & Extend-report (TBD)
+6. ui-core - UI testig core framework based on Selenium & Extend-report (TBD)
+7. api-tests - API tests respostory (TBD)
+8. ui-tests - E2E tests respostory (TBD)
+9. e2e-tests - API testing & UI testing implements with playwright + typescript technology
+10. docker-image - deploy develop & testing environments with kubernets (k8s) image (TBD)
 11. pipeline - Jenkins & Github actions (TBD)
 12. ...
